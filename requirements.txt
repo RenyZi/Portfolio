@@ -7,3 +7,5 @@ Pillow
 numpy
 pandas
 matplotlib
+whitenoise
+
